@@ -1,0 +1,6 @@
+Django>=5.1,<6.2                    # веб-фреймворк
+djangorestframework>=3.16           # REST API
+djangorestframework-simplejwt>=5.5  # JWT-авторизация
+psycopg2-binary>=2.9.10             # драйвер PostgreSQL
+redis>=5.2                          # клиент Redis (необязательно)
+python-dotenv>=1.0.1                # чтение .env
